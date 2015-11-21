@@ -12,4 +12,7 @@ public class AppEgit {
 		return "1";
 	}
 
+	public String fix(){
+		return "1";
+	}
 }
