@@ -7,5 +7,9 @@ public class AppEgit {
 		// slkjfdlajdslfsajlfdk
 		System.out.print("New comment");
 	}
+	
+	public int foo(){
+		return 1;
+	}
 
 }
