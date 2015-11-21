@@ -1,5 +1,5 @@
 package de.egit.tuto;
 
-public class NextCalass {
+public class NextClass{
 
 }
