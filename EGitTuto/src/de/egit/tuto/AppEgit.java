@@ -8,8 +8,8 @@ public class AppEgit {
 		System.out.print("New comment");
 	}
 	
-	public int foo(){
-		return 1;
+	public String foo(){
+		return "1";
 	}
 
 }
